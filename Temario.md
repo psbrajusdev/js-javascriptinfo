@@ -1,17 +1,16 @@
 # El lenguaje JavaScript
 
 
-## Una introducción
+ ## Una introducción
 
-<del>* Una introducción a JavaScript<del>  
-<del>* Manuales y especificaciones<del>  
-<del>* Editores de Código<del>  
-<del>* Consola de desarrollador<del>  
+ <del>* Una introducción a JavaScript<del>  
+ <del>* Manuales y especificaciones<del>  
+ <del>* Editores de Código<del>  
+ <del>* Consola de desarrollador<del>  
 
  ## Fundamentos de JavaScript
 
 * <del>¡Hola, mundo!<del>
-
 * Estructura del código
 * El modo moderno, "use strict"
 * Variables
