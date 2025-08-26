@@ -13,7 +13,7 @@
 * <del>¡Hola, mundo!<del>
 * <del>Estructura del código<del>
 * <del>El modo moderno, "use strict"<del>
-* Variables
+* <del> Variables<del>
 * Tipos de datos
 * Interacción: alert, prompt, confirm
 * Conversiones de Tipos

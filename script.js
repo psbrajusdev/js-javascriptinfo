@@ -1,5 +1,7 @@
 "use strict";
 
+
+/*
 function diHola(){
     console.log("Hola!");
     
@@ -29,3 +31,5 @@ function verificarEdad(edad){
 
 edad=prompt("Cual es tu edad?");
 verificarEdad(edad);    
+
+*/
