@@ -1,4 +1,4 @@
-
+"use strict";
 
 function diHola(){
     console.log("Hola!");

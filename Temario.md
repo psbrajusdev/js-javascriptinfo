@@ -11,8 +11,8 @@
  ## Fundamentos de JavaScript
 
 * <del>¡Hola, mundo!<del>
-* Estructura del código
-* El modo moderno, "use strict"
+* <del>Estructura del código<del>
+* <del>El modo moderno, "use strict"<del>
 * Variables
 * Tipos de datos
 * Interacción: alert, prompt, confirm
