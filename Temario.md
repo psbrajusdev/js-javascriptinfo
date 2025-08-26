@@ -3,10 +3,10 @@
 
 ## Una introducción
 
-* Una introducción a JavaScript
-* Manuales y especificaciones
-* Editores de Código
-* Consola de desarrollador
+<del>* Una introducción a JavaScript<del>  
+<del>* Manuales y especificaciones<del>  
+<del>* Editores de Código<del>  
+<del>* Consola de desarrollador<del>  
 
  ## Fundamentos de JavaScript
 
