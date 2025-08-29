@@ -14,7 +14,7 @@
 - <del>El modo moderno, "use strict"<del>
 - <del> Variables<del>
 - <del>Tipos de datos<del>
-- Interacción: alert, prompt, confirm
+- <del>Interacción: alert, prompt, confirm<del>
 - Conversiones de Tipos
 - Operadores básicos, matemáticas
 - Comparaciones
