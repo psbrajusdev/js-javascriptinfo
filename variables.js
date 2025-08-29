@@ -1,8 +1,8 @@
 let message;
-message="hola";
+message = "hola";
 //alert(message);
-let user="brajus",
-nombre="Pablo",
-apellido="Brajus"
+let user = "brajus",
+  nombre = "Pablo",
+  apellido = "Brajus";
 
-console.log(nombre+ " " + apellido);
+console.log(nombre + " " + apellido);
